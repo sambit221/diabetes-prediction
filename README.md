@@ -65,7 +65,7 @@ diabetes_X_test = diabetes_X[-30:]
 As we have to fit the line that’s why we will take only one feature and one label from the dataset. 
 We have only taken the index (2) from the dataset because we only need one feature 
 
--Code snippet 3
+-Code snippet 4
 ```python
 model = linear_model.LinearRegression()
 model.fit(diabetes_X_train, diabetes_y_train)
@@ -78,7 +78,7 @@ print(“Intercept:  ”,  model.intercept_)
 Here we have created our linear regression model. We have passed the training data to the (model.fit) then we will pass the testing data for prediction.
 Then we have printed the values for mean squared error, weights and intercept.
 
--Code snippet 4
+-Code snippet 5
 ```python
 plt.scatter(diabetes_X_test, diabetes_y_test)
 plt.plot(diabetes_X_test, diabetes_y_ predicted)
