@@ -92,6 +92,8 @@ The output graph made using matplotlib is shown below.
 
 
 In this program, we had only selected one feature but if we select multiple features for the same program then the output will be much better as shown in the figure below.
+
+### Output
 <img align="left" alt="output" width="130px" src="op.png" />
 ### Developed by:
 <a href="https://github.com/sambit221">Sambit Kumar Tripathy</a>
