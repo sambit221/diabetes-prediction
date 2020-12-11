@@ -1,6 +1,7 @@
 # Diabetes Predictor<br>
 ### Description
 Its a linear regression model made using python, matplotlib library, sklearn.
+[i am sambit]
 
 ### LinearRegressionModel-1 
 Here we have to fit the line so we will take only one feature and one label from the dataset. 
